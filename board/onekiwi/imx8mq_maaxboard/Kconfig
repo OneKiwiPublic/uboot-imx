@@ -1,0 +1,12 @@
+if TARGET_IMX8MQ_MAAXBOARD
+
+config SYS_BOARD
+	default "imx8mq_maaxboard"
+
+config SYS_VENDOR
+	default "onekiwi"
+
+config SYS_CONFIG_NAME
+	default "imx8mq_maaxboard"
+
+endif
